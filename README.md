@@ -37,14 +37,11 @@ I love building responsive web apps, solving problems & learning new technologie
 <a href="https://www.linkedin.com/in/harsh-hadiyal-931992322" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:harshhadiyal7@gmail.com">
+<a href="mailto:harshhadiyal7733@gmail.com">
   <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <a href="https://github.com/harshhadiyal7">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://leetcode.com/" target="_blank">
-  <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 </p>
 
@@ -80,18 +77,6 @@ I love building responsive web apps, solving problems & learning new technologie
 
 ---
 
-## 📊 GitHub Stats:
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=harshhadiyal7&show_icons=true&theme=radical" height="160"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=harshhadiyal7&theme=radical" height="160"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshhadiyal7&layout=compact&theme=radical" height="160"/>
-
-</div>
-
----
 
 ## 💡 Random Dev Quote
 
